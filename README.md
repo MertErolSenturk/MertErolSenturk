@@ -8,9 +8,20 @@
 
 🔭 I’m currently working on Web Programming<br><br>🌱 I’m currently learning JavaScript<br>
 
+
+<br/>
+<br/>
+<br/>
+
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/merterolsenturk/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MertErolentrk2)
+
+<br/>
+<br/>
+<br/>
+
 
 # 💻 Tech Stack:
 

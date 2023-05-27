@@ -1,8 +1,6 @@
 ### Hello , I’m Mert 👋
 
 <br/>
-<br/>
-<br/>
 
 # 💫 About Me:
 

@@ -2,9 +2,7 @@
 
 ## JR. Front End Developer
 
-<font color = "pink"> Less Is More </font>
 
-Reach Out Me
 
 
 <br/>

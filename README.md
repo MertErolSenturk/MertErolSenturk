@@ -1,5 +1,7 @@
 ### Hello , I’m Mert 👋
-
+<br/>
+<br/>
+<br/>
 # 💫 About Me:
 
 🔭 I’m currently working on Web Programming<br><br>🌱 I’m currently learning JavaScript<br>

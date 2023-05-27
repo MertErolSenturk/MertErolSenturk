@@ -1,5 +1,5 @@
 ### Hello , I’m Mert 👋
-## JR. Front End Developer
+
 # 💫 About Me:
 
 🔭 I’m currently working on Web Programming<br><br>🌱 I’m currently learning JavaScript<br>

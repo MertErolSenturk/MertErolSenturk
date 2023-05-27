@@ -7,10 +7,6 @@
 Reach Out Me
 
 
-
-<img width="22" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[instagram].svg" />
-<img  width="22"  align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[linkedin].svg" />
-
 <br/>
 <br/>
 
@@ -45,5 +41,4 @@ Reach Out Me
 
 
 
-[instagram] : https://www.instagram.com/merterolsenturk/
-[linkedin] : https://www.linkedin.com/in/mert-erol-şentürk-ab6682208/
+

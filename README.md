@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">A passionate Web Developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **.NET and C#**
 
 - 📫 How to reach me **merterolsenturk@gmail.com**
 
